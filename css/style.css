@@ -1,0 +1,156 @@
+
+html {
+  scroll-behavior: smooth;
+}
+h1{
+  color: #16697a;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  line-height: 2;
+margin: 50px auto 0 auto;
+}
+
+h2{
+    color: #16697a;
+  font-family: 'Montserrat', sans-serif;
+      font-size: 	2.5rem;
+}
+h3 {
+    color: #11999a;
+  font-family: 'Montserrat', sans-serif;
+
+}
+body{
+margin: 0;
+font-family: 'Merriweather', serif;
+text-align:center;
+}
+p{
+ font-size: 20px;
+
+}
+hr{
+  margin: 200px auto ;
+  width: 10%;
+  border-top: 10px dotted;
+ color: #d2d3c9;
+ border-bottom: none;
+
+}
+a{
+  margin: 10px 20px;
+  color: #132743;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover{
+  color: white;
+}
+.a-skills{
+  position: relative;
+  left: 300px;
+  bottom: 30px;
+}
+.baio{
+  width: 400px;
+  margin:50px auto;
+  line-height: 2;
+}
+.a-contact{
+  position:  absolute;
+  bottom: 315px;
+  font-size: 15px;
+}
+.contact-msg{
+  width: 400px;
+  margin: 100px auto;
+  line-height: 2;
+}
+.myimage{
+  margin-top: 100px;
+  height: 200px;
+  width: 200px;
+}
+.giphy1{
+  width:25%;
+ padding: 30px;
+  float: left;
+}
+.contact{
+  height:200px;
+  width: 200px;
+}
+.top_continer{
+  padding-top: 100px;
+  position: relative;
+  text-align: center;
+    background-color: #8db596;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.middle-container{
+  background-color: #e1edf9;
+}
+.skill-row{
+width : 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.react{
+  width:25%;
+ padding: 30px;
+  float: right;
+}
+.contact-me{
+  padding-bottom: 20px;
+}
+.btn {
+  margin: 100px auto;
+	box-shadow: -14px 15px 31px -8px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:26px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:14px 15px;
+	text-decoration:none;
+	text-shadow:12px 3px 22px #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.btn-1{
+position: relative;
+right: 590px;
+bottom: 320px;
+}
+.bottom-container{
+  padding: 60px;
+  background-color: #8db596;
+}
+
+.copy{
+  position: relative;
+  color: #d9e4dd;
+  top:70px;
+  font-size: 18px;
+  font-weight: bold;
+
+}
